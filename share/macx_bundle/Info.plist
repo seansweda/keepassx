@@ -41,7 +41,7 @@
     <string>6.0</string>
 
     <key>CFBundleIdentifier</key>
-    <string>com.apple.application-bundle</string>
+    <string>org.keepassx.KeePassX</string>
 
     <key>CFBundleDocumentTypes</key>
     <array>
